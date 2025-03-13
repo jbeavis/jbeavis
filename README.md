@@ -1,5 +1,4 @@
-Hi, I'm James Beavis. I'm an undergraduate student studying Computer Science at Cardiff University.
-Watch this space!
+Hello, I'm James Beavis. I'm an undergraduate student studying Computer Science at Cardiff University.
 
 <!---
 jbeavis/jbeavis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
